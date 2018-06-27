@@ -13,3 +13,4 @@ my working experience;
 some JS effect;
 etc
 
+***The position of all elements are wrong, need to be fixed***
